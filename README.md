@@ -27,11 +27,7 @@ You can view and run the full notebook on Kaggle:
 git clone https://github.com/MultiModelRegression.git
 2. Run `main.ipynb` to execute the models.
 
-## Dependencies
-- Pandas
-- NumPy
-- Scikit-Learn
-- Matplotlib
+
 
 
 
